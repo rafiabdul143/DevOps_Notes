@@ -1,2 +1,22 @@
-# DevOps_Notes
-A curated collection of essential DevOps concepts, tools, and hands-on labs. This repository covers topics such as CI/CD, Docker, Kubernetes, GitHub Actions, Terraform, and Shell scripting to help developers and DevOps engineers streamline the development and deployment process.
+# 🚀 DevOps Notes & Labs
+
+Welcome to **DevOps Notes** – a growing collection of essential DevOps concepts, tools, workflows, and hands-on labs.
+
+This repository is ideal for developers, system administrators, and DevOps enthusiasts who want to understand and apply modern DevOps practices.
+
+---
+
+## 📚 Topics Covered
+
+- ✅ Continuous Integration / Continuous Deployment (CI/CD)
+- 🐳 Docker & Containers
+- ☸️ Kubernetes
+- ⚙️ GitHub Actions
+- 🧰 Jenkins
+- 📦 Terraform (Infrastructure as Code)
+- 💻 Shell Scripting for automation
+- 🌐 Cloud & Monitoring Basics
+
+---
+
+
